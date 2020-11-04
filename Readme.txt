@@ -19,6 +19,8 @@ These can be found at:
 
 Shiny: (https://shiny.rstudio.com/)
 
+Shinythemes: (https://rstudio.github.io/shinythemes/)
+
 EBImage: (https://www.bioconductor.org/packages/release/bioc/vignettes/EBImage/inst/doc/EBImage-introduction.html)
 
 
